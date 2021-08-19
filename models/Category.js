@@ -8,7 +8,11 @@ Category.init(
   {
     // define columns
     category_name:{
-      type: DataTypes.STRING
+      type: DataTypes.STRING,
+      // references: {
+      //   model: 'product',
+      //   key: 'category_id',
+      // },
     }
   },
   {
