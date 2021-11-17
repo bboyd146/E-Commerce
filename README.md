@@ -1,5 +1,7 @@
 # E-Commerce
 
+![alt text](assets/getroutes.gif)
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
@@ -21,7 +23,7 @@ npm run seed
 ## Usage 
 npm start  
 open insomnia   
-![alt text](assets/getroutes.gif)
+
 
 ## License 
 (https://opensource.org/licenses/MIT)  
